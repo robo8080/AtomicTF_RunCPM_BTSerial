@@ -1,5 +1,5 @@
 # AtomicTF_RunCPM_BTSerial
-RunCPMをATOMIC TFカードキットで動くようにしたものです。<br>
+RunCPMをM5Stack ATOMIC TFカードキットで動くようにしたものです。<br>
 PC等とBluetooth SPPで接続し、ターミナルエミュレーターを接続して使用します。
 
 オリジナルはこちら。<br>
@@ -28,6 +28,7 @@ RunCPM - Z80 CP/M 2.2 emulator <https://github.com/MockbaTheBorg/RunCPM><br>
 5. 接続が上手くいけばこのような画面が表示されます。<br><br>
 ![画像1](images/image1.png)<br>
 <br>
+
 ---
 
 ### 参考資料 ###
