@@ -30,7 +30,7 @@ RunCPM - Z80 CP/M 2.2 emulator <https://github.com/MockbaTheBorg/RunCPM><br>
 3. 追加されたどちらかのCOMポートに「Tera Term」などのターミナルエミュレーターで接続します。<br>
 4. 上手く接続できなかったときはもう一方のCOMポートで試してみてください。<br>
 5. 接続が上手くいけばこのような画面が表示されます。<br><br>
-![画像1](images/image1.png)<br>
+![画像2](images/image2.png)<br>
 <br>
 
 ---
