@@ -1,5 +1,9 @@
 # AtomicTF_RunCPM_BTSerial
-RunCPMをM5Stack ATOMIC TFカードキットで動くようにしたものです。<br>
+ATOMIC TFカードキットで動く超小型CP/Mマシン
+
+![画像1](images/image1.png)<br><br>
+
+これは、RunCPMをM5Stack ATOMIC TFカードキットで動くようにしたものです。<br>
 PC等とBluetooth SPPで接続し、ターミナルエミュレーターを接続して使用します。
 
 オリジナルはこちら。<br>
